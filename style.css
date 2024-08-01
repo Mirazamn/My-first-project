@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/566/997/HD-wallpaper-abstract-blue-texture-abstract-blue-texture.jpg);
+    background-size: 1500px;
+    text-align: center;
+}
+
+
+button {
+    width: 250px;
+    height: 50px;
+    background-color: rgb(0, 145, 250);
+    border: none;
+    text-align: center;
+}
+
+
+.main {
+    border: none;
+    width: 250px;
+    background-color: rgb(229, 229, 229);
+    height: 50px;
+}
+
+
+form {
+    margin-top: 300px;
+    margin-left: 30%;
+    margin-bottom: 200px;
+    background-color:azure;
+    width: 600px;
+    height: 900px;
+    text-align: left;
+    padding: 50px;
+    border: none;
+    border-radius: 20px;
+}
+
+
+#m1m2 {
+    text-align: center;
+}
+
+
+#m1m1 {
+    padding: 50px;
+    text-align: center;
+}
+
+
+#chackbox {
+    padding: none;
+    text-align: left;
+}
+
+
+h5 {
+    border: 1px solid black;
+    width: 100px;
+    text-align: center;
+}
+
+
+#h5h5 {
+    color: rgb(56, 77, 154);
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
